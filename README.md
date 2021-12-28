@@ -42,6 +42,8 @@ In this assignment, you will build an interactive dashboard to explore the [Bell
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 <img width="1274" alt="DashBoard" src="https://user-images.githubusercontent.com/89142142/147592730-a446c0cc-895d-4afd-9a49-ed316d2a24ba.png">
 
+Dashboard Image Source: https://www.msif.org/news/2018/09/27/the-role-of-genes-in-ms/ 
+
 
 # Advanced Challenge Assignment (Optional)
 
