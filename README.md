@@ -13,6 +13,9 @@ In this assignment, you will build an interactive dashboard to explore the [Bell
 
 * Use `otu_labels` as the hovertext for the chart.
 
+![bar_chart](https://user-images.githubusercontent.com/89142142/147592689-c8e9feed-9ec9-467a-a778-b68bf95fd939.png)
+
+
 3. Create a bubble chart that displays each sample.
 
 * Use `otu_ids` for the x values.
@@ -33,7 +36,12 @@ In this assignment, you will build an interactive dashboard to explore the [Bell
 
 6. Update all of the plots any time that a new sample is selected.
 
+![bubble_chart](https://user-images.githubusercontent.com/89142142/147592713-612962ea-2f4f-493f-be62-b50f6cbc29fd.png)
+
+
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+<img width="1274" alt="DashBoard" src="https://user-images.githubusercontent.com/89142142/147592730-a446c0cc-895d-4afd-9a49-ed316d2a24ba.png">
+
 
 # Advanced Challenge Assignment (Optional)
 
@@ -42,5 +50,8 @@ The following task is advanced and therefore optional.
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
+
+![Bonus_chart](https://user-images.githubusercontent.com/89142142/147592763-e526dcf3-5899-4ac6-b5d6-958917a102d1.png)
+
 
 * Update the chart whenever a new sample is selected.
